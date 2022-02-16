@@ -1,7 +1,7 @@
 # tr-14 dev. community
 ## About
 Our main goal is to create a dev. community for better studying experience around programming. That means that as member of community you agree with following of the the following **rules**:
-1. All communication in chats/github *must* be non-toxic.
+1. You should be non-toxic.
 2. You *must* be active, that means that as a part of community you should take part in community's life: reviewing code of your colleagues, adding new code to your personal folder, e.t.c..
 3. You shouldn't be shy. In case you need help, just ask.
 4. You *mustn't* cheat! That means that you also agree with [Academic Integrity](https://kpi.ua/academic-integrity) rules.
