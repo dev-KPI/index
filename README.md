@@ -16,7 +16,7 @@ Our main goal is to create a dev. community for better studying experience aroun
 
     | Good structure ✅ | Bad structure ❌ | Correct exemple |
     |:-----------------|:------------------|:----------------:|
-    | Readable | Hard to read | 01-lab-arrays |
+    | Readable | Unreadable | 01-lab-arrays |
     | Easy to orient | Messed | nsurename/lab/solution.js |
     | Scalable | Hasn't root | modules - src - e.t.c. |
     | Typed only in eng | "Бутерброт" | nsurename/lab/solution.js |    
